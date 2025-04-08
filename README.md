@@ -65,3 +65,16 @@
     </footer>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liên kết tải xuống</title>
+</head>
+<body>
+    <h1>Tải xuống tệp của bạn</h1>
+    <!-- Thay 'path-to-your-file.pdf' bằng đường dẫn đến tệp của bạn -->
+    <a href="path-to-your-file.pdf" download>Tải xuống tệp PDF</a>
+</body>
+</html>
