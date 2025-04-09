@@ -44,7 +44,7 @@
 </head>
 <body>
     <header>
-        <h1>Chào mừng vợ thu an đến với trò ngớ ngẩn của chồng đức dương!</h1>
+        <h1>!!!</h1>
     </header>
     <nav>
         <a href="#home">Trang chủ</a>
@@ -56,7 +56,7 @@
         <p>nội dung của trang không có gì đặc sắc .</p>
     </main>
     <footer>
-        &copy; 2025 Trang web của Dương 🤣
+        &copy; Trang web 2020 ?
     </footer>
 </body>
 </html>
